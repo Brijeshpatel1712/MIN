@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.heeader{
+    height: 80px;
+    width: 100%;
+    background-color: aqua;
+}
+.section2{
+    display: flex;
+    justify-content: space-between;
+}
+.main1{
+    height: 430px;
+    width: 25%;
+    background-color: blue;
+}
+.main2{
+    height: 430px;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+}
+.main3{
+    height: 430px;
+    width: 25%;
+    background-color:yellow;
+}
+.footer{
+    background-color: black;
+    width: 100%;
+    height: 80px;
+}
